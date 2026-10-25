@@ -29,15 +29,15 @@ The analysis uses Python libraries to clean and transform the dataset, identify 
 
 💡 Skills Demonstrated
 
-Data cleaning and preprocessing
-Exploratory Data Analysis
-Statistical analysis and correlation
-Data visualization
-Feature engineering
-Pandas and NumPy operations
-Machine Learning classification
-Hyperparameter tuning
-Cross-validation
-Model evaluation
-Neural network development
-Interpretation of training and validation graphs
+- Data cleaning and preprocessing
+- Exploratory Data Analysis
+- Statistical analysis and correlation
+- Data visualization
+- Feature engineering
+- Pandas and NumPy operations
+- Machine Learning classification
+- Hyperparameter tuning
+- Cross-validation
+- Model evaluation
+- Neural network development
+- Interpretation of training and validation graphs
