@@ -8,24 +8,24 @@ The analysis uses Python libraries to clean and transform the dataset, identify 
 
 - Project Objectives
 
-Analyze AI usage patterns among students and professionals.
-Explore the relationship between AI usage and productivity.
-Investigate how AI tools contribute to time savings and user satisfaction.
-Identify the most commonly used AI tools.
-Compare productivity patterns across different user groups.
-Build and evaluate Machine Learning classification models.
-Develop a neural network to classify productivity into High and Low categories.
+1.Analyze AI usage patterns among students and professionals.
+2.Explore the relationship between AI usage and productivity.
+3.Investigate how AI tools contribute to time savings and user satisfaction.
+4.Identify the most commonly used AI tools.
+5.Compare productivity patterns across different user groups.
+6.Build and evaluate Machine Learning classification models.
+7.Develop a neural network to classify productivity into High and Low categories.
 
 - Technologies and Libraries
   
-Python — Programming language
-NumPy — Numerical operations and data transformation
-Pandas — Data manipulation and cleaning
-Matplotlib — Data visualization
-Seaborn — Statistical visualizations and correlation heatmaps
-Scikit-learn — Machine Learning, preprocessing, model selection, and evaluation
-TensorFlow / Keras — Neural network development and training.
-Neural network evaluation.
+1.Python — Programming language
+2.NumPy — Numerical operations and data transformation
+3.Pandas — Data manipulation and cleaning
+4.Matplotlib — Data visualization
+5.Seaborn — Statistical visualizations and correlation heatmaps
+6.Scikit-learn — Machine Learning, preprocessing, model selection, and evaluation
+7.TensorFlow / Keras — Neural network development and training.
+8.Neural network evaluation.
 
 💡 Skills Demonstrated
 
